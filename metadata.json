@@ -1,0 +1,8 @@
+{
+  "name": "Dhanvantri",
+  "description": "A comprehensive AI-powered health risk prediction and management platform featuring health assessments, risk analysis, personalized recommendations, and a clinic finder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
